@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgendaContactos</string>
+    <string name="Titulo">Contactos</string>
+    <string name="DigitaId">Digite la Identificacion</string>
+    <string name="DigitaNombre">Digite el Nombre</string>
+    <string name="DigitaApellido">Digite el Apellido</string>
+    <string name="DigitaTelefono">Digite el Telefono</string>
+    <string name="DigitaEmail">Digita el E-Mail</string>
+    <string name="DigitaDireccion">Digita la Direccion</string>
+    <string name="Creditos">Developed By WilangelDev</string>
+
+
+</resources>
